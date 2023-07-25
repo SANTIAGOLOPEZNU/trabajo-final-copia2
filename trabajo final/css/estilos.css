@@ -1,0 +1,35 @@
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.collapse{
+    justify-content: center;
+}
+.nav-link{
+    color:  black;
+    font-size: 18px;
+}
+#logo{
+    height: 35px;
+    width: 100spx;
+}
+#footer{
+    background-color: black;
+    height: 350px;
+    width: 100%;
+}
+.list-group-item{
+    background-color: black;
+    color: aliceblue;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+}
+#container{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
